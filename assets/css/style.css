@@ -1,0 +1,15 @@
+.hide-text{
+    display: none;
+}
+
+.label-sms{
+    width: 100% !important;
+}
+.preview{
+    font-weight: 700;
+    float: left;
+}
+
+#preview-sms-text{
+    color: black;
+}
